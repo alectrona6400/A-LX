@@ -4,6 +4,7 @@ Platinum9.1
 This is an expansion of the Platinum9 pack by @grassmunk
 ![System 9.1](https://i.imgur.com/BRUweb0.png)
 
+
 Installation
 ======
 
@@ -22,6 +23,27 @@ Update your icon cache: `gtk-update-icon-cache /home/[username]/.icons/NineIcons
 
 Copy the `ClassicPlatinumStreamlined`, `PlatiPlus` and `PlatiPlus26` folders into your `~/.themes` folder, or your `/usr/share/themes` folder for system-wide use.
 
+Menu > Settings > Appearance
+
+Style: `ClassicPlatinumStreamlined`
+
+Icons: `NineIcons`
+
+Fonts: Default Font: `Charcoal`, Size 8 / Default Monospace Font: `Monaco`, Size 11
+
+Settings: Uncheck everything.
+
+Menu > Settings > Window Manager
+
+Style: `copland`
+
+Title Font: `Charcoal`, Size 8
+
+Title Alignment: Center
+
+Menu > Settings > Settings Editor > xfwm4 > Borderless Maximize: Uncheck the `Value` checkbox.
+
+
 
 ## Wallpaper
 
@@ -34,9 +56,11 @@ Copy your font .ttf files into your `~/.fonts` folder, or your `/usr/share/fonts
 
 Then, run the command `fc-cache -f -v` to rebuild your fonts index.
 
+
 ## qmmp skin
 
 Copy the `/qmmp/mac8amp.wsz` file into your `~/.qmmp/skins/` folder. (more skins are available [here.](http://qmmp.ylsoftware.com/files/skins/winamp-skins/))
+
 
 ## Menu
 
