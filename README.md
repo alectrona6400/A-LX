@@ -11,22 +11,24 @@ Paths are valid for a debian/ubuntu based systems running the Xfce desktop envio
 
 ## Icons
 
-Place the 'NineIcons' folder in your '~/.icons' folder, or your '/usr/share/icons' folder for system-wide use.
+Copy the 'NineIcons' folder into your '~/.icons' folder, or your '/usr/share/icons' folder for system-wide use.
 
 
 ## Theme
 
-Place the 'ClassicPlatinumStreamlined' folder in your '~/.themes' folder, or your '/usr/share/themes' folder for system-wide use.
+Copy the 'ClassicPlatinumStreamlined', 'PlatiPlus' and 'PlatiPlus26' folders into your '~/.themes' folder, or your '/usr/share/themes' folder for system-wide use.
 
 
 ## Wallpaper
 
-Place your wallpapers folder in your '~/.wallpaper' folder, or your '/usr/share/wallpaper/' folder for system-wide use.
+Copy your wallpapers folder into your '~/.wallpaper' folder, or your '/usr/share/wallpaper/' folder for system-wide use.
 
 
 ## Fonts
 
-Place your font .ttf files in your '~/.fonts' folder, or your '/usr/share/fonts' folder for system-wide use. Then, run the command 'fc-cache -f -v' to rebuild your fonts index.
+Copy your font .ttf files into your '~/.fonts' folder, or your '/usr/share/fonts' folder for system-wide use.
+
+Then, run the command 'fc-cache -f -v' to rebuild your fonts index.
 
 ## Menu
 
