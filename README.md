@@ -57,7 +57,7 @@ Window: Right Click -> Preferences -> Profile Preferences
 
 Window Width: 138px Height: 48px
 
-Wallpaper: `~/.wallpapers/OS9-wallpaper/Finder/Mac OS Background.jpg` (or, /usr/share/wallpaper..)
+Wallpaper: `~/.wallpaper/OS9-wallpaper/Finder/Mac OS Background.jpg` (or, /usr/share/wallpaper..)
 
 Colors:
 
