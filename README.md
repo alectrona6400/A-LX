@@ -48,6 +48,8 @@ Icon: `~/.icons/NineIcons/menu/apple.png` (or, /usr/share/icons...)
 
 TopMenu: `apt install xfce4-appmenu-plugin`
 
+Panel > Add New Panel Items > AppMenu Plugin
+
 
 ## MATE Terminal
 
