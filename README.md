@@ -13,7 +13,9 @@ Paths are valid for a debian/ubuntu based systems running the Xfce desktop envio
 
 Copy the `NineIcons` folder into your `~/.icons` folder, or your `/usr/share/icons` folder for system-wide use.
 
-Additional icons borrowed from the Chicago95 set (also by @grassmunk) which can be found [here](https://github.com/grassmunk/Chicago95) as well as the Chicago95_Extras expansion to this set which can be found [here](https://github.com/grassmunk/Chicago95_Extras). 
+Additional icons borrowed from the Chicago95 set (also by @grassmunk) which can be found [here](https://github.com/grassmunk/Chicago95) as well as the Chicago95_Extras expansion to this set which can be found [here](https://github.com/grassmunk/Chicago95_Extras).
+
+Update your icon cache: `gtk-update-icon-cache /home/[username]/.icons/NineIcons/`
 
 
 ## Theme
