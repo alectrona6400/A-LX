@@ -53,7 +53,7 @@ Window: Right Click -> Menubar Off
 
 Window: Right Click -> Preferences -> Profile Preferences
 
-Width: 138px Height: 48px
+Window Width: 138px Height: 48px
 
 Wallpaper: `~/.wallpapers/OS9-wallpaper/Finder/Mac OS Background.jpg` (or, /usr/share/wallpaper..)
 
@@ -88,17 +88,17 @@ Window: Right Click -> Menubar Off
 
 Window: Right Click -> Preferences
 
-Font: `undefined medium` size 7 line height: 1.10 (font by @andirueckel)
+Font: `undefined medium` / size: 7 / line height: 1.10 (font can be found [here](https://github.com/andirueckel/undefined-medium) by @andirueckel)
 
 Colors:
 
-TEXT: #FFFCD2 / #6A6B9B
+TEXT: `#FFFCD2` / `#6A6B9B`
 
-BOLD: [on] #B598FF 
+BOLD: [on] `#B598FF` 
 
 CURSOR: [off]
 
-HIGHLIGHT: #FFFFFF / #FF0000
+HIGHLIGHT: `#FFFFFF` / `#FF0000`
 
 Transparency: just about five percent..
 
