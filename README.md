@@ -80,7 +80,7 @@ Bold Color: `#9959A3`
 - Palette Entry 7 `#2E3436`
 - Palette Entry 8 `#4F597C`
 - Palette Entry 9 `#FFB17C`
-- Palette Entry 10 `#8B6A94`
+- Palette Entry 10 `#C55E0A`
 - Palette Entry 11 `#82974B`
 - Palette Entry 12 `#CE7BAC`
 - Palette Entry 13 `#C58D3D`
