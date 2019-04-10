@@ -103,19 +103,19 @@ HIGHLIGHT: #FFFFFF / #FF0000
 Transparency: just about five percent..
 
 
-- Palette Entry 0 #B7B7B7
-- Palette Entry 1 #CE5454
-- Palette Entry 2 #CC8EC4
-- Palette Entry 3 #8ED5D5
-- Palette Entry 4 #D0D060
-- Palette Entry 5 #C98A92
-- Palette Entry 6 #86BAC1
-- Palette Entry 7 #E3E0EA
-- Palette Entry 8 #E0E0E0 
-- Palette Entry 9 #ED6161
-- Palette Entry 10 #EEABE5
-- Palette Entry 11 #A8F7F7
-- Palette Entry 12 #FFFF77
-- Palette Entry 13 #EEABB3
-- Palette Entry 14 #ABE6EE
-- Palette Entry 15 #D3C2F7
+- Palette Entry 0 `#B7B7B7`
+- Palette Entry 1 `#CE5454`
+- Palette Entry 2 `#CC8EC4`
+- Palette Entry 3 `#8ED5D5`
+- Palette Entry 4 `#D0D060`
+- Palette Entry 5 `#C98A92`
+- Palette Entry 6 `#86BAC1`
+- Palette Entry 7 `#E3E0EA`
+- Palette Entry 8 `#E0E0E0 `
+- Palette Entry 9 `#ED6161`
+- Palette Entry 10 `#EEABE5`
+- Palette Entry 11 `#A8F7F7`
+- Palette Entry 12 `#FFFF77`
+- Palette Entry 13 `#EEABB3`
+- Palette Entry 14 `#ABE6EE`
+- Palette Entry 15 `#D3C2F7`
