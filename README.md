@@ -30,6 +30,10 @@ Copy your font .ttf files into your `~/.fonts` folder, or your `/usr/share/fonts
 
 Then, run the command `fc-cache -f -v` to rebuild your fonts index.
 
+## qmmp skin
+
+Copy the `/qmmp/mac8amp.wsz` file into your `~/.qmmp/skins/` folder. (more skins are available [here.](http://qmmp.ylsoftware.com/files/skins/winamp-skins/))
+
 ## Menu
 
 Panel > Add New Panel Items > Applications Menu
