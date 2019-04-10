@@ -47,6 +47,8 @@ Font: `Monaco` Regular 7
 
 Window: Right Click -> Menubar Off
 
+Window: Right Click -> Preferences -> Profile Preferences
+
 Width: 138px Height: 48px
 
 Wallpaper: `~/.wallpapers/OS9-wallpaper/Finder/Mac OS Background.jpg` (or, /usr/share/wallpaper..)
