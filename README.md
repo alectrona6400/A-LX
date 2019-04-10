@@ -11,22 +11,22 @@ Paths are valid for a debian/ubuntu based systems, adjust accordingly if needed.
 
 ## Icons
 
-Place the NineIcons folder in your ~/.icons folder, or your /usr/share/icons folder for system-wide use.
+Place the 'NineIcons' folder in your '~/.icons' folder, or your '/usr/share/icons' folder for system-wide use.
 
 
 ## Theme
 
-Place the ClassicPlatinumStreamlined folder in your ~/.themes folder, or your /usr/share/themes folder for system-wide use.
+Place the 'ClassicPlatinumStreamlined' folder in your '~/.themes' folder, or your '/usr/share/themes' folder for system-wide use.
 
 
 ## Wallpaper
 
-Place your wallpapers folder in your ~/.wallpaper folder, or your /usr/share/wallpaper/ folder for system-wide use.
+Place your wallpapers folder in your '~/.wallpaper' folder, or your '/usr/share/wallpaper/' folder for system-wide use.
 
 
 ## Fonts
 
-Place your font .ttf files in your ~/.fonts folder, or your /usr/share/fonts folder for system-wide use. Then, run the command 'fc-cache -f -v' to rebuild your fonts index.
+Place your font .ttf files in your '~/.fonts' folder, or your '/usr/share/fonts' folder for system-wide use. Then, run the command 'fc-cache -f -v' to rebuild your fonts index.
 
 
 ## MATE Terminal
@@ -37,33 +37,33 @@ Window: Right Click -> Menubar Off
 
 Width: 138px Height: 48px
 
-Wallpaper: ~/.wallpapers/OS9-wallpaper/Finder/Mac OS Background.jpg (or, /usr/share/wallpaper..)
+Wallpaper: '~/.wallpapers/OS9-wallpaper/Finder/Mac OS Background.jpg' (or, /usr/share/wallpaper..)
 
 Colors:
 
-Text Color: #16525C
+Text Color: '#16525C'
 
-Bold Color: #9959A3
-
-
-- Palette Entry 0 #AFB8D6
-- Palette Entry 1 #FF7A21
-- Palette Entry 2 #493050
-- Palette Entry 3 #5B7E02
-- Palette Entry 4 #AA0D69
-- Palette Entry 5 #CE5C00
-- Palette Entry 6 #5C3566
-- Palette Entry 7 #2E3436
+Bold Color: '#9959A3'
 
 
-- _Palette Entry 8 #4F597C
-- _Palette Entry 9 #FFB17C
-- Palette Entry 10 #FFB17C
-- Palette Entry 11 #FFB17C
-- Palette Entry 12 #FFB17C
-- Palette Entry 13 #FFB17C
-- Palette Entry 14 #FFB17C
-- Palette Entry 15 #FFB17C
+- Palette Entry 0 '#AFB8D6'
+- Palette Entry 1 '#FF7A21'
+- Palette Entry 2 '#493050'
+- Palette Entry 3 '#5B7E02'
+- Palette Entry 4 '#AA0D69'
+- Palette Entry 5 '#CE5C00'
+- Palette Entry 6 '#5C3566'
+- Palette Entry 7 '#2E3436'
+
+
+- _Palette Entry 8 '#4F597C'
+- _Palette Entry 9 '#FFB17C'
+- Palette Entry 10 '#8B6A94'
+- Palette Entry 11 '#82974B'
+- Palette Entry 12 '#CE7BAC'
+- Palette Entry 13 '#C58D3D'
+- Palette Entry 14 '#AD7FA8'
+- Palette Entry 15 '#C0C0BD'
 
 
 ## GNOME Terminal
