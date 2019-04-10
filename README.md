@@ -46,6 +46,8 @@ Uncheck: `Show icons in menu`, `Show application description in tooltip`, `Show 
 
 Icon: `~/.icons/NineIcons/menu/apple.png` (or, /usr/share/icons...)
 
+TopMenu: `apt install xfce4-appmenu-plugin`
+
 
 ## MATE Terminal
 
