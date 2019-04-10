@@ -2,7 +2,7 @@ Platinum9.1
 ======
 
 This is an expansion of the Platinum9 pack by @grassmunk
-![System 9.1](https://i.imgur.com/gNHKqXy.png)
+![System 9.1](https://i.imgur.com/BRUweb0.png)
 
 Installation
 ======
