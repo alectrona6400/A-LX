@@ -106,6 +106,7 @@ The following command will install `vala-panel-appmenu` and its dependencies:
 The following commands will configure `vala-panel-appmenu` to display the active applications.
 
 `xfconf-query -c xsettings -p /Gtk/ShellShowsMenubar -n -t bool -s true`
+
 `xfconf-query -c xsettings -p /Gtk/ShellShowsAppmenu -n -t bool -s true`
 
 Now `AppMenu Plugin` will appear in your `Add New Panel Items` pane.
