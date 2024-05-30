@@ -1,3 +1,16 @@
+A/LX BASE REPOSITORY; UNDER CONSTRUCTION
+======
+
+Forked from Platinum9.1 to give me some form of a base to work with. Don't expect this to be constantly updated; I'll work on this every now and then. My goal is to create a more complete theme set of Classic Mac OS styles, particularly System 7 up to Mac OS 9 (though a System 6 theme wouldn't be difficult for sure.)
+If possible, I would like help with the following:
+-System sound events, replacing the PC speaker beep with one of the alert sounds
+-A full recreation of the Platinum sounds from Mac OS 8.5-9.2.2
+-Use Geneva for icon fonts, smaller menus. Chicago/Charcoal for title bars, menus, and messages
+-Creating themes for other desktop environments
+-Display manager login screen themes
+
+Below is the original description.
+
 Platinum9.1
 ======
 
